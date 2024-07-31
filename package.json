@@ -1,5 +1,5 @@
 {
-  "name": "tiny-webgpu-renderer",
+  "name": "tiny-3d-renderer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,5 +12,9 @@
     "@webgpu/types": "^0.1.42",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "gl-matrix": "^3.4.3",
+    "rxjs": "^7.8.1"
   }
 }

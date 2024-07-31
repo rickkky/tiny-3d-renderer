@@ -1,1 +1,1 @@
-# tiny-webgpu-renderer
+# tiny-3d-renderer
